@@ -18,7 +18,7 @@ Clone or Download: Download the source code or clone the repository to your loca
 
 bash
 Copy code
-git clone https://github.com/your-username/recipe-management-app.git
+git clone https://github.com/user18121/Recipe-app.git
 Install Java: Ensure that Java 8 or higher is installed on your machine. You can download the latest version of Java from here.
 
 Build the Project: Use an IDE like IntelliJ IDEA or Eclipse to open the project. You can also build it via the command line with:
